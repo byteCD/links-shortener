@@ -2,10 +2,11 @@
 Приложение для сокращения ссылок
 # Стек технологий
 1. React
-2. Axios
-3. Express
-4. Express-Validator
-5. Mongoose
+2. React Router
+3. Axios
+4. Express
+5. Express-Validator
+6. Mongoose
 # Запуск
 Для запуска проекта локально нужно:
 1. Установить NodeJS: https://nodejs.org/
